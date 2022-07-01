@@ -75,3 +75,5 @@ print('Personality:',personality)
 print('Ideals:',ideal)
 print('Flaws:',flaw)
 print('Description:',description,extra)
+
+wait = input("Press Enter to exit.")
